@@ -1,0 +1,35 @@
+Data: 21/10/2024
+
+Rafael Kobayashi Santos
+Rua Engenheiro Silveira
+rafaelkobayashisantos@gmail.com
++55 (11) 980742137
+
+Assunto: Solicitação de Acesso às Permissões da API do Facebook
+
+Prezado(a) Equipe do Facebook,
+
+Eu, Rafael Kobayashi Santos, representando ZUCKERMAN, venho por meio deste solicitar acesso às permissões necessárias para utilizar a API do Facebook, especificamente as permissões ads_management e ads_read.
+
+Objetivo do Uso da API:
+
+O acesso a essas permissões é fundamental para que possamos extrair os dados relacionados as campanhas e demais informações contidas na plataforma para futuras análises e controle.
+
+Compromissos:
+
+Conformidade com as Políticas do Facebook: Comprometemo-nos a respeitar todas as políticas e diretrizes do Facebook para desenvolvedores e a proteger os dados dos usuários.
+
+Uso Ético e Responsável: Garantimos que os dados obtidos através da API serão utilizados de maneira ética e responsável, em conformidade com as leis de proteção de dados aplicáveis.
+
+Revisão e Relatório: Estamos dispostos a passar por quaisquer processos de revisão que o Facebook considere necessários e a fornecer relatórios sobre o uso da API conforme solicitado.
+
+Agradecemos pela atenção e esperamos contar com sua aprovação para obter acesso às permissões mencionadas. Estamos à disposição para fornecer informações adicionais ou esclarecer quaisquer dúvidas.
+
+Atenciosamente,
+
+Data: 21/10/2024
+
+Rafael Kobayashi Santos
+Rua Engenheiro Silveira
+rafaelkobayashisantos@gmail.com
++55 (11) 980742137
